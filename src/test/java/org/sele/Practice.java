@@ -79,7 +79,7 @@ public class Practice {
     sd.sw
 
 	  }}}}
-	
+	system(vijay)
 				
     
 		
